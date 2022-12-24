@@ -1,7 +1,8 @@
 <p align="center">
 I'm Xinbin Sun, a <b> student in Machine Learning </b>
   
- 
+ [<img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=wordpress&logoColor=white" />](https://sunxinbin.cn/)
+  
 ## Languages and Framewroks:
   
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
