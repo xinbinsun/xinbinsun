@@ -1,9 +1,6 @@
 <p align="center">
 I'm Xinbin Sun, a <b> student in Machine Learning </b>
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinbinsun&theme=dark&layout=compact)
-
-  
  [<img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=wordpress&logoColor=white" />](https://sunxinbin.cn/)
   
 ## Languages and Framewroks:
