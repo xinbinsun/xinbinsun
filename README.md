@@ -1,5 +1,5 @@
 <p align="center">
-I'm Xinbin Sun, a <b> student in Machine Learning and Artificial Intelligence.</b>
+I'm Xinbin Sun, <b> specializing in Computer Graphics and Deep Learning.</b>
   
  [<img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=wordpress&logoColor=white" />](https://sunxinbin.cn/)
   
