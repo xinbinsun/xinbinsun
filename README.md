@@ -10,6 +10,7 @@ I'm Xinbin Sun, <b> specializing in Computer Graphics and Deep Learning.</b>
   [<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xinbinsun@gmail.com)
   
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?&username=xinbinsun&show_icons=true&count_private=true&hide=prs&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinbinsun&layout=compact&theme=radical)](https://github.com/xinbinsun)
 <!---
 xinbinsun/xinbinsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
